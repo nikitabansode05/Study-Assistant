@@ -18,7 +18,7 @@ allowed_origins = ["http://localhost:5173","http://127.0.0.1:5173","http://local
 
 # Vite moves to 5175, 5176, ... when 5173 is busy, and `vite preview` uses 4173.
 # Allow any local port so the frontend never fails with a CORS error on a different port.
-app.add_middleware(CORSMiddleware,allow_origins=allowed_origins,allow_origin_regex=r"^http://(localhost|127\.0\.0\.1)(:\d+)?$",allow_credentials=True,allow_methods=["*"],allow_headers=["*"],)
+app.add_middleware(CORSMiddleware,allow_origins=allowed_origins,allow_origin_regex=r"^http://(localhost|35\.200\.142\.201)(:\d+)?$",allow_credentials=True,allow_methods=["*"],allow_headers=["*"],)
 
 store = TFLKnowledgeCore()
 # app.state.tflrag_service = TFLragService(store)
