@@ -1,0 +1,596 @@
+[
+  {
+    "id": "819725c5-d4f8-4ca5-9d01-2cf6531cc251",
+    "filename": "tflpython-main/notes/20.md",
+    "chunks": 13,
+    "stored_as": "a41c81631be0419cb29d6b8d37931460.md"
+  },
+  {
+    "id": "2cbd2591-51cf-4f74-adaa-e703722d6500",
+    "filename": "tflpython-main/notes/21.md",
+    "chunks": 15,
+    "stored_as": "cb943b9fd41046ada21a03c517a8a3ef.md"
+  },
+  {
+    "id": "bda4bb67-d805-4f79-b86d-8cdf43141ec1",
+    "filename": "tflpython-main/notes/24.md",
+    "chunks": 16,
+    "stored_as": "6428f95f9436403cb259e1e5d3755fff.md"
+  },
+  {
+    "id": "cf94b380-3c46-4c5f-9625-74fe2eff071d",
+    "filename": "tflpython-main/notes/25.md",
+    "chunks": 18,
+    "stored_as": "fdbde7865ba743f296a9facad7577e31.md"
+  },
+  {
+    "id": "a61cf251-095c-4ed0-b700-24d192e2edac",
+    "filename": "tflpython-main/notes/4.md",
+    "chunks": 12,
+    "stored_as": "aa2c68e60caf42d1b8bee283827abf74.md"
+  },
+  {
+    "id": "529eba96-062d-43c5-a940-35db6961bd0a",
+    "filename": "tflpython-main/notes/5.md",
+    "chunks": 14,
+    "stored_as": "586a32291dc74ee4b357cfd425da0211.md"
+  },
+  {
+    "id": "f86a20b3-d67f-4888-a63a-0adecdec3e51",
+    "filename": "tflpython-main/notes/6.md",
+    "chunks": 5,
+    "stored_as": "65e25589458947469d55e25c042ea963.md"
+  },
+  {
+    "id": "90eb61a8-a5d8-4a3c-b253-cfbed3662f2d",
+    "filename": "tflpython-main/notes/7.md",
+    "chunks": 16,
+    "stored_as": "741952e18f6e4befac92f26086944a5c.md"
+  },
+  {
+    "id": "9fa93519-4c3e-40b2-be9b-c1b5c5ef07d6",
+    "filename": "tflpython-main/notes/8.md",
+    "chunks": 10,
+    "stored_as": "8a7d11708389470a89f306096f3424d1.md"
+  },
+  {
+    "id": "5d2715c4-68fd-471c-b7c8-fda195748a02",
+    "filename": "tflpython-main/notes/9.md",
+    "chunks": 16,
+    "stored_as": "8b7446cbee044ae7bc8af0e3e615edb7.md"
+  },
+  {
+    "id": "5f65abc1-0c06-4f16-b285-c07b2f0df212",
+    "filename": "tflpython-main/notes/learning.md",
+    "chunks": 22,
+    "stored_as": "00c2099fba824434ad364dd1bd935de8.md"
+  },
+  {
+    "id": "938bfdca-aedf-4f86-bbda-f2f79e4c89a0",
+    "filename": "tflpython-main/notes/more/Lectures/1_10_25.md",
+    "chunks": 8,
+    "stored_as": "b769ae0b95aa49b09611b9d4e162afb4.md"
+  },
+  {
+    "id": "881e76f9-612d-40bf-8300-27a3d4a09cbd",
+    "filename": "tflpython-main/notes/more/Lectures/22_9_26_1.md",
+    "chunks": 24,
+    "stored_as": "c9f09db1d5044f8888f474b956418272.md"
+  },
+  {
+    "id": "bab45e22-e71f-4dd2-9b0f-8e00a6da2c1d",
+    "filename": "tflpython-main/notes/more/Lectures/22_9_26_2.md",
+    "chunks": 16,
+    "stored_as": "bf958f0d883f4f6c8f7fbd8485497715.md"
+  },
+  {
+    "id": "76a52883-f10c-4054-b654-7ca6300732db",
+    "filename": "tflpython-main/notes/more/Lectures/22_9_26_3.md",
+    "chunks": 18,
+    "stored_as": "6f36c05110b346e1a2ccdc1e777eef80.md"
+  },
+  {
+    "id": "846b15a2-7242-4b73-be06-720c5f516afd",
+    "filename": "tflpython-main/notes/more/Lectures/22_9_26_4.md",
+    "chunks": 19,
+    "stored_as": "f96de16b35d944d89790728cf550dcf5.md"
+  },
+  {
+    "id": "d2b9344e-714c-475a-abef-56a94dd2ca40",
+    "filename": "tflpython-main/notes/more/Lectures/22_9_26_5.md",
+    "chunks": 20,
+    "stored_as": "da10f2fc40d2478299d0d7983cd8f291.md"
+  },
+  {
+    "id": "a1c484b9-f285-41b4-a7d0-a8cd0da19765",
+    "filename": "TFLSDM-main/README.md",
+    "chunks": 26,
+    "stored_as": "fc718fbf6bee4b4db11d962e590417d8.md"
+  },
+  {
+    "id": "6577afe3-a9a6-4c8b-84ed-952189cb2c66",
+    "filename": "TFLSDM-main/notes/CICD.md",
+    "chunks": 19,
+    "stored_as": "f65f4b0f78d740cda6958c7e848b7a3f.md"
+  },
+  {
+    "id": "08985345-3b81-472f-8441-5e51b09162ac",
+    "filename": "TFLSDM-main/notes/CodeDevelopment.md",
+    "chunks": 7,
+    "stored_as": "9cf8d156bc004c43863da5b4289bb718.md"
+  },
+  {
+    "id": "272f0b1d-23e5-44f3-907b-87b78f986539",
+    "filename": "TFLSDM-main/notes/Docker.md",
+    "chunks": 33,
+    "stored_as": "720aa1a7307b479bbfc64bafef94efad.md"
+  },
+  {
+    "id": "f2863949-fb9e-4d66-9988-fd5d65f675c2",
+    "filename": "TFLSDM-main/notes/DockerCICDjenkins.md",
+    "chunks": 8,
+    "stored_as": "8c81f5757dfe421ba311a4cb4b3a23df.md"
+  },
+  {
+    "id": "ed9fcac6-4aa5-4d0a-a162-f89bb3a4448c",
+    "filename": "TFLSDM-main/notes/DockerCICDtest.md",
+    "chunks": 7,
+    "stored_as": "f0519b9ba7714a5ea1e2305a99911c5d.md"
+  },
+  {
+    "id": "361ba54a-3c0b-4eab-a62f-e2dfaf25fde5",
+    "filename": "TFLSDM-main/notes/Dockerk8ecs.md",
+    "chunks": 8,
+    "stored_as": "465e3b9a6a0548b78f26dfdeb6653111.md"
+  },
+  {
+    "id": "79c78618-09ce-4998-b134-af3d47a5f283",
+    "filename": "TFLSDM-main/notes/Dockernodemysql.md",
+    "chunks": 6,
+    "stored_as": "c3a97e71647a48239f07e81e5205da43.md"
+  },
+  {
+    "id": "f04ec4b1-31d1-4afd-9e9e-848de6ecb804",
+    "filename": "TFLSDM-main/notes/EstimationRiskmgmt.md",
+    "chunks": 12,
+    "stored_as": "4efbcf33547c4ffeb0285a44e816a7c1.md"
+  },
+  {
+    "id": "64d655fa-b0b0-4538-a645-3c55481b4ec2",
+    "filename": "TFLSDM-main/notes/Modeling.md",
+    "chunks": 28,
+    "stored_as": "37a74c29fdd44af7bbc9efdf95d2fce7.md"
+  },
+  {
+    "id": "5ce01b4a-07c2-4d2b-a187-1adc607b4810",
+    "filename": "TFLSDM-main/notes/PairProgramming.md",
+    "chunks": 13,
+    "stored_as": "6c8b2ae1599e4e6a9221ff54c3ea22f9.md"
+  },
+  {
+    "id": "5717caff-54a2-4fc1-90dc-74b0d5456d55",
+    "filename": "TFLSDM-main/notes/Refactoring.md",
+    "chunks": 24,
+    "stored_as": "c6e6efe86be34171b89bbe6133db4633.md"
+  },
+  {
+    "id": "1986df71-513e-4745-a7eb-38024246f9c9",
+    "filename": "TFLSDM-main/notes/RequirementEngg.md",
+    "chunks": 38,
+    "stored_as": "c60545d65a364e1391422a5d6c827d14.md"
+  },
+  {
+    "id": "15113325-7b90-471a-9dd9-1f86e3163d56",
+    "filename": "TFLSDM-main/notes/SoftwareRequirements.md",
+    "chunks": 7,
+    "stored_as": "658377ad7bbb4365bf4742338fe14a37.md"
+  },
+  {
+    "id": "3a12a84a-af10-48ef-b41a-d1d0b73c47d0",
+    "filename": "TFLSDM-main/notes/TestAutomation.md",
+    "chunks": 10,
+    "stored_as": "799866a149da433697261d0a73523a9a.md"
+  },
+  {
+    "id": "09be0e5a-c0f8-4f49-aa4f-b8024902e610",
+    "filename": "TFLSDM-main/notes/UserStory.md",
+    "chunks": 40,
+    "stored_as": "274a1072e5b94a36ad779c5214086fef.md"
+  },
+  {
+    "id": "f956b9b0-5105-4330-8b58-096566c8bb6e",
+    "filename": "TFLSDM-main/notes/UserStoryScenario.md",
+    "chunks": 9,
+    "stored_as": "157aeb34fe0d4f79acfecb8028749dd8.md"
+  },
+  {
+    "id": "24a3a62a-1df5-4a0f-a52b-41e8ca5acfff",
+    "filename": "TFLSDM-main/notes/adlc.md",
+    "chunks": 12,
+    "stored_as": "a2acfc4c4d194720a58a67e1d6186bc4.md"
+  },
+  {
+    "id": "59d6f714-1c91-4c92-a3dd-257710342366",
+    "filename": "TFLSDM-main/notes/agile.md",
+    "chunks": 11,
+    "stored_as": "cda09eddd9c4449ab7c2e16206197b7b.md"
+  },
+  {
+    "id": "066ae98a-e602-4f8c-a264-2e39b966db5d",
+    "filename": "TFLSDM-main/notes/agilevswaterfall.md",
+    "chunks": 8,
+    "stored_as": "9ac8dcf957f8415db84291ca23b11116.md"
+  },
+  {
+    "id": "c19e7a69-cc91-42f4-983a-f6d39caea9c1",
+    "filename": "TFLSDM-main/notes/aidlc.md",
+    "chunks": 26,
+    "stored_as": "5a93bf4ea06a4a2ea56b4cba8d2ed234.md"
+  },
+  {
+    "id": "76d401ce-3c16-4541-bbab-5fcc8be7ebec",
+    "filename": "TFLSDM-main/notes/aise.md",
+    "chunks": 21,
+    "stored_as": "93e87dd891ae493f924758afc918ef4c.md"
+  },
+  {
+    "id": "25b0ccc5-8089-48a8-9136-36c9cad358c5",
+    "filename": "TFLSDM-main/notes/architecturematters.md",
+    "chunks": 8,
+    "stored_as": "8f6b62aba71c469f87316cbcca4ea182.md"
+  },
+  {
+    "id": "629a7be8-bef8-4abf-bd42-2c6ef7bc7e37",
+    "filename": "TFLSDM-main/notes/branching.md",
+    "chunks": 13,
+    "stored_as": "f1b0ff7e935f463797e979bbe594b8da.md"
+  },
+  {
+    "id": "daeed20e-53ca-42a7-85df-fd1fbaf1357b",
+    "filename": "TFLSDM-main/notes/buildyourmuscle.md",
+    "chunks": 10,
+    "stored_as": "9d543072d08b4b458c6cf4d26e19aa33.md"
+  },
+  {
+    "id": "263acff9-efae-4a18-a262-3b223864ed96",
+    "filename": "TFLSDM-main/notes/cloud.md",
+    "chunks": 9,
+    "stored_as": "9a5acfd045e24000abf5d19c1b58b4c1.md"
+  },
+  {
+    "id": "91902e58-4269-47d8-ba5d-104f9423f9f5",
+    "filename": "TFLSDM-main/notes/clouddevopplatformengg.md",
+    "chunks": 5,
+    "stored_as": "c4833f11fa8f466bae1a7dd5feef84f6.md"
+  },
+  {
+    "id": "c0c98948-f56b-4d76-a430-9242b7e4a5e1",
+    "filename": "TFLSDM-main/notes/clouddevopsplatformengg.md",
+    "chunks": 5,
+    "stored_as": "738f2cf3d26e4c14b161fa0def0e281c.md"
+  },
+  {
+    "id": "d50e09ee-c305-4443-939a-2a5b6c40fd9d",
+    "filename": "TFLSDM-main/notes/containrizedapp.md",
+    "chunks": 7,
+    "stored_as": "6c7fbfd94cdb4c379e4cc03dd41217a6.md"
+  },
+  {
+    "id": "446fad7b-92a7-4ede-a775-8e4e3eae3ea4",
+    "filename": "TFLSDM-main/notes/corporatenetworkdeepdive.md",
+    "chunks": 16,
+    "stored_as": "5e9bf6217d944945acd90a972d208a09.md"
+  },
+  {
+    "id": "fd777864-056a-4e4b-9d4e-03421ebf9c9a",
+    "filename": "TFLSDM-main/notes/craftingarchitecture.md",
+    "chunks": 6,
+    "stored_as": "4883cc3eb33c44d3988b936315bc0ff8.md"
+  },
+  {
+    "id": "0febe18e-b46e-455b-997b-70649e7caf59",
+    "filename": "TFLSDM-main/notes/d.md",
+    "chunks": 22,
+    "stored_as": "8031a8bdbefd4df682e0034e81b0d68f.md"
+  },
+  {
+    "id": "be32df93-aac7-41ff-b9e1-335c21969b57",
+    "filename": "TFLSDM-main/notes/days/21may.md",
+    "chunks": 22,
+    "stored_as": "3794ce609e434719b284c903f69f0319.md"
+  },
+  {
+    "id": "d1bf90c2-390e-4c7d-9005-221a063ebc77",
+    "filename": "TFLSDM-main/notes/days/21may2.md",
+    "chunks": 54,
+    "stored_as": "e9dcdf42ce214fe7bd7a5303f8e9707b.md"
+  },
+  {
+    "id": "8239fe92-ec90-4706-b339-ec997861d516",
+    "filename": "TFLSDM-main/notes/days/22may1.md",
+    "chunks": 68,
+    "stored_as": "47c5f967a49c47c19a5d5232047fb69b.md"
+  },
+  {
+    "id": "8da20e8b-ce46-41c4-927c-23dd69d5d4c3",
+    "filename": "TFLSDM-main/notes/days/22may2.md",
+    "chunks": 43,
+    "stored_as": "9d394b7f10ad4b179f6888b444179470.md"
+  },
+  {
+    "id": "063d5499-23a3-46f4-9dff-6545ce5dffcc",
+    "filename": "TFLSDM-main/notes/days/24may1.md",
+    "chunks": 53,
+    "stored_as": "e592dc00f8b6400a8187315997dd65e6.md"
+  },
+  {
+    "id": "7bfa0ab1-8928-49b2-bb01-b926b0adec97",
+    "filename": "TFLSDM-main/notes/days/24may2.md",
+    "chunks": 89,
+    "stored_as": "541f6dcb6ebd4b84945ec1394f98f30e.md"
+  },
+  {
+    "id": "cb244606-e475-40a1-a2e6-c4192dcfa7fd",
+    "filename": "TFLSDM-main/notes/days/25may1.md",
+    "chunks": 44,
+    "stored_as": "ba11bde2cf244acfac6d14ad6c382099.md"
+  },
+  {
+    "id": "446c2435-bbce-494d-b691-565b56077a58",
+    "filename": "TFLSDM-main/notes/days/26may1.md",
+    "chunks": 55,
+    "stored_as": "84e4f3db612b404bb9ddb4491ef5b6ac.md"
+  },
+  {
+    "id": "1b7da57a-b966-4981-877f-c4b2c2a54240",
+    "filename": "TFLSDM-main/notes/days/26may2.md",
+    "chunks": 23,
+    "stored_as": "a2d0749511aa42558e4be82caec80aaf.md"
+  },
+  {
+    "id": "64dfb67f-7503-4dec-adf0-3f923ed3343e",
+    "filename": "TFLSDM-main/notes/days/27may1.md",
+    "chunks": 71,
+    "stored_as": "781c4cb984ac429fb5a7af518258e578.md"
+  },
+  {
+    "id": "51f1db2b-ce52-46eb-b794-fdea4c2fa221",
+    "filename": "TFLSDM-main/notes/days/27may2.md",
+    "chunks": 54,
+    "stored_as": "500ff7d9bdaa41f8b68ebfedf7092d6f.md"
+  },
+  {
+    "id": "73678bf5-6610-4e9b-9715-00f1fa0eecc1",
+    "filename": "TFLSDM-main/notes/days/2oct.md",
+    "chunks": 10,
+    "stored_as": "9f6fce5118f8496894ec91ae2f7527f0.md"
+  },
+  {
+    "id": "63eb0498-faa6-456a-bf16-f557704f2e4f",
+    "filename": "TFLSDM-main/notes/days/4oct.md",
+    "chunks": 10,
+    "stored_as": "b4392a82de8543b9ad1e2fd2eb1e6916.md"
+  },
+  {
+    "id": "6b71a2eb-b398-47bb-ab83-62ab0b956653",
+    "filename": "TFLSDM-main/notes/days/4octbrstobdd.md",
+    "chunks": 39,
+    "stored_as": "8bf98ff0c42844099d38f096ffc343ef.md"
+  },
+  {
+    "id": "d5d8cc1d-74a1-4cde-8df0-863fc56318c4",
+    "filename": "TFLSDM-main/notes/days/scalabilitystrategies.md",
+    "chunks": 21,
+    "stored_as": "98af26d27bda4d63aa9582d534da5156.md"
+  },
+  {
+    "id": "fc5f0e0d-9370-4626-a7f7-3fd28b7549a9",
+    "filename": "TFLSDM-main/notes/devops.md",
+    "chunks": 23,
+    "stored_as": "543d52372041489bb043e97c903f089b.md"
+  },
+  {
+    "id": "cc5dde29-1f77-4fec-9fab-25fb317fa770",
+    "filename": "TFLSDM-main/notes/devopsroadmap.md",
+    "chunks": 22,
+    "stored_as": "132c3bbf4c674920817c47d815793045.md"
+  },
+  {
+    "id": "bf0a63d2-3ee0-4015-9693-21aa2411bed0",
+    "filename": "TFLSDM-main/notes/docker_22_2_docker3.md",
+    "chunks": 42,
+    "stored_as": "c8a58a4acd0346a48bb2d8e49f592904.md"
+  },
+  {
+    "id": "c594c10a-66e8-401a-8dcf-90ab8e2f4dcb",
+    "filename": "TFLSDM-main/notes/docker_23_02_26.md",
+    "chunks": 67,
+    "stored_as": "d2ded346c0eb46fa817d2cb663620509.md"
+  },
+  {
+    "id": "6c7caf71-e4fe-4893-8fa8-13f1ab9d3b48",
+    "filename": "TFLSDM-main/notes/docker_23_2_26_2.md",
+    "chunks": 51,
+    "stored_as": "1d4ed8321a974948be63aa9a3b59091c.md"
+  },
+  {
+    "id": "23f7ca95-39f3-4c41-a55e-0ff7544a06b7",
+    "filename": "TFLSDM-main/notes/dsase.md",
+    "chunks": 4,
+    "stored_as": "114c7f750e7844208232c1f2116c5d4c.md"
+  },
+  {
+    "id": "cc0de9f8-4a93-481a-8828-3dc4f8612655",
+    "filename": "TFLSDM-main/notes/dsasystemdesign.md",
+    "chunks": 6,
+    "stored_as": "349bc992d18d448fa9b9e44550b4dc23.md"
+  },
+  {
+    "id": "ab519142-349b-4783-8a43-3907e5b77a3a",
+    "filename": "TFLSDM-main/notes/graddyboochreflection.md",
+    "chunks": 3,
+    "stored_as": "8e9e425743c4445592ddc1d9f2190af3.md"
+  },
+  {
+    "id": "62c2402f-95ff-4461-8a08-1e92f1d4d82b",
+    "filename": "TFLSDM-main/notes/jenkins_createpipeline.md",
+    "chunks": 11,
+    "stored_as": "c260b42e3ac14d7dab09286d8bc1fb04.md"
+  },
+  {
+    "id": "32005f8d-a7a8-45d3-86a3-851df0b2a803",
+    "filename": "TFLSDM-main/notes/jenkins_install.md",
+    "chunks": 5,
+    "stored_as": "78dbada22a5b4bd284cf24020e240b3e.md"
+  },
+  {
+    "id": "d3645aa7-54d0-44b8-bfbd-c3ef32724ca7",
+    "filename": "TFLSDM-main/notes/jenkinsfordevelopers.md",
+    "chunks": 16,
+    "stored_as": "2831f1c8c1a44c519cc97a2b28a28000.md"
+  },
+  {
+    "id": "652bee4a-7c98-47d6-9090-85ca86addb58",
+    "filename": "TFLSDM-main/notes/jenkinspipeline.md",
+    "chunks": 6,
+    "stored_as": "0c0d340105c4408ebe8022887f8e12ea.md"
+  },
+  {
+    "id": "8b11012f-c287-4421-a332-2ee5a2d47f85",
+    "filename": "TFLSDM-main/notes/kubernetes.md",
+    "chunks": 11,
+    "stored_as": "341411503c344d42a6a257b65b8d0c94.md"
+  },
+  {
+    "id": "1d79b78d-511f-4303-9aaf-6abd808c3740",
+    "filename": "TFLSDM-main/notes/kubernetes_aws.md",
+    "chunks": 15,
+    "stored_as": "dd435c2f143d4bd284949bef58b2a397.md"
+  },
+  {
+    "id": "e96742c6-3053-4d3a-97cd-e19948495fb1",
+    "filename": "TFLSDM-main/notes/lld.md",
+    "chunks": 4,
+    "stored_as": "49f16a2df982411fb7aa9efeecec211c.md"
+  },
+  {
+    "id": "cf3ce13f-ce86-4647-9c18-33706df826bd",
+    "filename": "TFLSDM-main/notes/mcq.md",
+    "chunks": 35,
+    "stored_as": "c9b5bd344fae4432ab04084577956996.md"
+  },
+  {
+    "id": "c893cf04-0f0f-4502-9302-fcf6aebbff43",
+    "filename": "TFLSDM-main/notes/microservicestechstack.md",
+    "chunks": 2,
+    "stored_as": "5633f90a46ad498b998824e1fa00263a.md"
+  },
+  {
+    "id": "547cd0c1-e8d6-4e5d-9ab3-a6f1f5a35dce",
+    "filename": "TFLSDM-main/notes/modernse.md",
+    "chunks": 10,
+    "stored_as": "643bf4321ba74bd68e58df67944f65cd.md"
+  },
+  {
+    "id": "6a7a678d-45f2-47fa-be27-23ba45003374",
+    "filename": "TFLSDM-main/notes/mvcarchitecture.md",
+    "chunks": 4,
+    "stored_as": "6d1c3c84d1fa42d1b46034ac637389ff.md"
+  },
+  {
+    "id": "1d84fcfc-c8e4-4375-902e-fbed8717bb4e",
+    "filename": "TFLSDM-main/notes/pillsforse.md",
+    "chunks": 12,
+    "stored_as": "4d9870a668a24fb196b13cf2496b3753.md"
+  },
+  {
+    "id": "a1fc7e01-f72f-45ca-8bd2-46eff2d2a7f1",
+    "filename": "TFLSDM-main/notes/pmp.md",
+    "chunks": 15,
+    "stored_as": "93d33d8f8034415684724ce2cd0680f3.md"
+  },
+  {
+    "id": "229c53cc-3991-44c8-bccd-7b833b08ec4c",
+    "filename": "TFLSDM-main/notes/scrum.md",
+    "chunks": 20,
+    "stored_as": "64c1b388ee6b44a99d733adf9bc81416.md"
+  },
+  {
+    "id": "c34eae8c-a4da-4362-9a97-89768641436d",
+    "filename": "TFLSDM-main/notes/sdlc.md",
+    "chunks": 10,
+    "stored_as": "35d3ac397413443b8fc38b9e6d09cf69.md"
+  },
+  {
+    "id": "657fdff4-08b9-4ada-bc83-aa385c389a3b",
+    "filename": "TFLSDM-main/notes/softwarearchitecture.md",
+    "chunks": 22,
+    "stored_as": "aa0d0b9049ed4abebaf1d6b103684987.md"
+  },
+  {
+    "id": "292422c8-bc88-4e48-8545-c474f528ae25",
+    "filename": "TFLSDM-main/notes/softwaredesignPriniciples.md",
+    "chunks": 21,
+    "stored_as": "1963194a398141bdbe2be154d3f218f7.md"
+  },
+  {
+    "id": "b06bbcb2-22fa-47bf-99fc-8a29b8d6a66c",
+    "filename": "TFLSDM-main/notes/softwareengg.md",
+    "chunks": 6,
+    "stored_as": "36adf67a841240148e5491a625ccaaf0.md"
+  },
+  {
+    "id": "f9ffb28b-f097-42f8-9513-0f786c52bee6",
+    "filename": "TFLSDM-main/notes/softwaretesting.md",
+    "chunks": 22,
+    "stored_as": "2bd10b6252fb4fc3b54a4f590c46b88e.md"
+  },
+  {
+    "id": "ea8d6d26-4518-44ab-b1bc-828a6dd31c90",
+    "filename": "TFLSDM-main/notes/sourcecontrol.md",
+    "chunks": 25,
+    "stored_as": "3e332ce55d8b4aed9c77ba01738c79d9.md"
+  },
+  {
+    "id": "1347237c-b90c-4de3-939d-01a0d7282afb",
+    "filename": "TFLSDM-main/notes/systemdesign.md",
+    "chunks": 4,
+    "stored_as": "4939ff6d5375414ab215af5b93544447.md"
+  },
+  {
+    "id": "3663d457-f0da-427d-9217-5d9876c4a414",
+    "filename": "TFLSDM-main/notes/systemenginereing.md",
+    "chunks": 8,
+    "stored_as": "62fb1cce570d4744bbf5193a0a4c0efe.md"
+  },
+  {
+    "id": "014846e0-24bc-4a09-9dd4-d435ae87a20d",
+    "filename": "TFLSDM-main/notes/virtualization.md",
+    "chunks": 28,
+    "stored_as": "5c8008cfee5e45bbaacb3881b75cd7ce.md"
+  },
+  {
+    "id": "75c03167-04d4-47f7-9ee3-7cb32098fad5",
+    "filename": "TFLSDM-main/notes/waterfall.md",
+    "chunks": 5,
+    "stored_as": "e24c4bccdccb4066857eacdd08435367.md"
+  },
+  {
+    "id": "5e4bf341-16b2-4ad8-be2e-e11d42eeb25e",
+    "filename": "TFLSDM-main/practice.md",
+    "chunks": 3,
+    "stored_as": "0a23ab0bfaea46cc8459fc8522a63942.md"
+  },
+  {
+    "id": "be7ae0be-d921-4373-8cfe-0779bc9dd8a5",
+    "filename": "UserStory.md",
+    "chunks": 40,
+    "stored_as": "76ed8e9646e149c3b6341dbe94298fca.md"
+  },
+  {
+    "id": "7a8e6d8a-8e81-4f44-96f4-0a3d72f6ca6e",
+    "filename": "1.md",
+    "chunks": 16,
+    "stored_as": "4ed21dccad5a42f1b56c413b711c9b6c.md"
+  }
+]
