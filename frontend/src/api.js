@@ -1,5 +1,5 @@
 // Base URL of the FastAPI backend. Override with VITE_API_BASE in frontend/.env.
-export const API_BASE = (import.meta.env.VITE_API_BASE || 'http://127.0.0.1:8000').replace(/\/+$/, '')
+export const API_BASE = (import.meta.env.VITE_API_BASE || 'http://10.160.0.3:8000').replace(/\/+$/, '')
 
 // Mentor session token. Kept in memory only (never localStorage/sessionStorage/cookies),
 // so a page reload always returns to the default student view.
